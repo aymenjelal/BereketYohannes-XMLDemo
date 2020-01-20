@@ -1,0 +1,35 @@
+<?xml version = "1.0"?>
+<class>
+   <student rollno = "012">
+      <firstname>Kalkidan</firstname>
+      <lastname>Mulugeta</lastname>
+      <nickname>kale</nickname>
+      <marks>85</marks>
+   </student>
+   
+   <student rollno = "345">
+      <firstname>Amran</firstname>
+      <lastname>Mulugeta</lastname>
+      <nickname>amu</nickname>
+      <marks>95</marks>
+   </student>
+   
+   <student rollno = "678">
+      <firstname>Bereket</firstname>
+      <lastname>Yohannes</lastname>
+      <nickname>beki</nickname>
+      <marks>90</marks>
+   </student>
+   <teacher rollno = "901">
+      <firstname>Natnael</firstname>
+      <lastname>Argaw</lastname>
+      <nickname>nati</nickname>
+      <rating>9</rating>
+   </teacher>
+   <teacher rollno = "456">
+      <firstname>Abraham</firstname>
+      <lastname>Ski</lastname>
+      <nickname>abtt</nickname>
+      <rating>5</rating>
+   </teacher>
+</class>
